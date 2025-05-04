@@ -26,12 +26,3 @@ the EIA-923 database
 Years Used: 2019 and 2020
 
 Size: Each CSV file has approximately 15,000 records
-
-
-
-Dataset
-
-In this project, I will use the US Energy Information and Administration Electric Power and Fossil
-Fuel Data from the EIA-923 database. This dataset spans from 1970 to 2023 and includes
-monthly and annual reports from over 12,000 power plants. It details electricity generation, fossil
-fuel consumption, fuel cost and quality, and plant operational data
